@@ -1,0 +1,2 @@
+my first git project!
+1) пишу первую стоку!
