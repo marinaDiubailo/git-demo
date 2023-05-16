@@ -3,3 +3,4 @@ my first git project!
 2) пишу вторую строку!
 3) пишу третью строку сразу после второй!
 4) fgsdgdfgd f
+5) dfgdff ghftghdfh d
