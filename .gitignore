@@ -1,0 +1,7 @@
+*.log
+folderName/
+.DS_Store
+node_modules/
+secret.txt
+
+# комментарий
